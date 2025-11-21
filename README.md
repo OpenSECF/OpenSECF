@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Kosidinna</h1>
+<h3 align="center">A passionate software developer based in the UK, using modern software tools and languages to solve problems.</h3>
+
+[![An image of @kosiumeigbo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kosiumeigbo)](https://holopin.io/@kosiumeigbo)
+
+
 <!--
 **OpenSECF/OpenSECF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
